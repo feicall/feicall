@@ -1,138 +1,84 @@
 # TOKE SOUNON FEIÇALL
+### Développeur Full Stack Web & Mobile | Digital Engineering
 
-### DÉVELOPPEUR FULL STACK · DIGITAL BUILDER
+**Je transforme les idées en solutions digitales utiles, performantes et évolutives.**
 
-\<p align="left">   \<img src="[https://img.shields.io/badge/Focus-Digital%20Engineering-161B22?style=flat-square](https://img.shields.io/badge/Focus-Digital%20Engineering-161B22?style=flat-square)" alt="Digital Engineering"/>   \<img src="[https://img.shields.io/badge/Approach-Creativity%20%26%20Precision-161B22?style=flat-square](https://img.shields.io/badge/Approach-Creativity%20%26%20Precision-161B22?style=flat-square)" alt="Creativity and Precision"/>   \<img src="[https://img.shields.io/badge/Location-Benin-161B22?style=flat-square](https://img.shields.io/badge/Location-Benin-161B22?style=flat-square)" alt="Benin"/> \</p>
+Bienvenue sur mon espace GitHub !
 
-## Je transforme les idées en solutions digitales.
+Je suis développeur Web Full Stack et Mobile, passionné par la conception et le développement de solutions numériques. J'aime transformer des idées en applications concrètes, résoudre des problèmes techniques et construire des produits qui répondent à de véritables besoins.
 
-**Développement · Architecture · Innovation**
-
-Développeur Web Full Stack et Mobile, je conçois des applications et des solutions numériques en associant réflexion technique, créativité et sens du détail.
-
-J'aime comprendre les besoins, concevoir des architectures adaptées et transformer des idées en produits fonctionnels, utiles et évolutifs.
+Mon approche associe réflexion, créativité et rigueur technique. Au-delà du code, je m'intéresse à l'architecture logicielle, à l'expérience utilisateur et à la qualité des applications que je développe.
 
 ---
 
-## MON UNIVERS TECHNIQUE
+## À propos de moi
 
-\<table>
-&#x20; \<tr>
-&#x20;   \<td width="50%" valign="top">
+- Développement d'applications web et mobiles.
+- Conception d'interfaces modernes et intuitives.
+- Développement backend et gestion des bases de données.
+- Conception et intégration d'API REST.
+- Structuration et amélioration continue des projets logiciels.
+- Apprentissage continu des bonnes pratiques de développement.
 
-### \<img src="[https://img.shields.io/badge/01-Development-2563EB?style=flat-square](https://img.shields.io/badge/01-Development-2563EB?style=flat-square)" alt="01 Development"/>
+Je suis particulièrement intéressé par les projets qui associent technologie, innovation et résolution de problèmes concrets.
 
-**Développement**
+## Environnement technique
 
-Frontend & Backend
+**Frontend**
+- HTML5
+- CSS3
+- JavaScript
+- Tailwind CSS
+- React (bases)
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=html,css,js,tailwind,react,python,django,nodejs](https://skillicons.dev/icons?i=html,css,js,tailwind,react,python,django,nodejs)" alt="Technologies frontend et backend"/>
-\</p>
+**Backend**
+- Python
+- Django
+- Node.js
+- Sequelize
 
-```
-</td>
-<td width="50%" valign="top">
-```
+**Bases de données**
+- MySQL
+- SQL
+- PostgreSQL (connaissances en cours de consolidation)
 
-### \<img src="[https://img.shields.io/badge/02-Data%20%26%20Tools-16A34A?style=flat-square](https://img.shields.io/badge/02-Data%20%26%20Tools-16A34A?style=flat-square)" alt="02 Data and Tools"/>
+**Outils & environnement de développement**
+- Git & GitHub
+- Visual Studio Code
+- Postman
+- MySQL Workbench
 
-**Données & Architecture**
+## Projets & réalisations
 
-Bases de données et environnement de développement.
+Je développe des applications et expérimente différentes approches techniques afin de renforcer mes compétences en ingénierie logicielle.
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,postman](https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,postman)" alt="Bases de données et outils"/>
-\</p>
+Quelques axes de travail :
 
-```
-</td>
-```
+- **Applications Full Stack :** conception de plateformes web intégrant frontend, backend et bases de données.
+- **Développement backend :** création de services, gestion des données et exploration des API REST.
+- **Solutions digitales :** conception d'outils numériques répondant à des besoins métiers.
 
-&#x20; \</tr>
-\</table>
+Retrouve mes réalisations dans mes dépôts :
 
----
+[Explorer mes projets GitHub](https://github.com/feicall?tab=repositories)
 
-## CE QUE JE CONSTRUIS
+## Mes centres d'intérêt techniques
 
-\<table>
-&#x20; \<tr>
-&#x20;   \<td width="33%" align="center" valign="top">
+- Ingénierie logicielle et architecture applicative.
+- Développement Full Stack.
+- API REST et services backend.
+- Bases de données et optimisation des performances.
+- Automatisation et amélioration des processus.
+- Collaboration et développement logiciel en équipe.
 
-\<img src="[https://img.shields.io/badge/01-2563EB?style=for-the-badge](https://img.shields.io/badge/01-2563EB?style=for-the-badge)" alt="01"/>
+## Collaboration professionnelle
 
-### Applications Web
+Ouvert aux collaborations, aux missions freelance et aux opportunités professionnelles à distance.
 
-Des applications modernes, fonctionnelles et adaptées aux besoins métiers.
-
-```
-</td>
-<td width="33%" align="center" valign="top">
-```
-
-\<img src="[https://img.shields.io/badge/02-16A34A?style=for-the-badge](https://img.shields.io/badge/02-16A34A?style=for-the-badge)" alt="02"/>
-
-### Solutions Backend
-
-Des architectures applicatives, des services et des systèmes de gestion de données.
-
-```
-</td>
-<td width="33%" align="center" valign="top">
-```
-
-\<img src="[https://img.shields.io/badge/03-9333EA?style=for-the-badge](https://img.shields.io/badge/03-9333EA?style=for-the-badge)" alt="03"/>
-
-### Produits Digitaux
-
-Des idées transformées en expériences numériques concrètes.
-
-```
-</td>
-```
-
-&#x20; \</tr>
-\</table>
+J'apprécie particulièrement les environnements où la curiosité, la rigueur, le partage de connaissances et la qualité du travail occupent une place centrale.
 
 ---
 
-## PROJETS & RÉALISATIONS
+### FEIÇALL | Digital Engineering
 
-Je développe des projets personnels et professionnels pour mettre en pratique mes connaissances, explorer de nouvelles technologies et améliorer mes méthodes de conception.
-
-**Explorer mes réalisations :**
-
-\<p align="left">
-&#x20; \<a href="[https://github.com/feicall?tab=repositories](https://github.com/feicall?tab=repositories)">
-&#x20;   \<img src="[https://img.shields.io/badge/EXPLORER-MES%20PROJETS-161B22?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/EXPLORER-MES%20PROJETS-161B22?style=for-the-badge\&logo=github\&logoColor=white)" alt="Explorer mes projets GitHub"/>
-&#x20; \</a>
-\</p>
-
----
-
-## MA PHILOSOPHIE
-
-> Comprendre avant de concevoir. Construire avec méthode. Améliorer continuellement.
-
-Je considère le développement comme un processus d'apprentissage permanent où la qualité du code, la pertinence des solutions et la capacité à collaborer font toute la différence.
-
----
-
-## CONNECTONS-NOUS
-
-Ouvert aux collaborations, aux projets stimulants et aux opportunités professionnelles à distance.
-
-\<p align="left">
-&#x20; \<a href="[https://github.com/feicall](https://github.com/feicall)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge\&logo=github\&logoColor=white)" alt="Mon profil GitHub"/>
-&#x20; \</a>
-\</p>
-
----
-
-\<p align="center">
-&#x20; \<strong>FEIÇALL | DIGITAL ENGINEERING\</strong>
-&#x20; \<br/>
-&#x20; \<sub>Concevoir avec vision. Développer avec méthode. Construire pour durer.\</sub>
-\</p>
+**Concevoir avec vision. Développer avec méthode. Construire pour durer.**
