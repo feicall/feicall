@@ -1,11 +1,11 @@
 # TOKE SOUNON FEIÇALL
-### Développeur Full Stack Web & Mobile | Digital Engineering
+### Développeur Full Stack Web | Digital Engineering
 
 **Je transforme les idées en solutions digitales utiles, performantes et évolutives.**
 
 Bienvenue sur mon espace GitHub !
 
-Je suis développeur Web Full Stack et Mobile, passionné par la conception et le développement de solutions numériques. J'aime transformer des idées en applications concrètes, résoudre des problèmes techniques et construire des produits qui répondent à de véritables besoins.
+Je suis développeur Web Full Stack, passionné par la conception et le développement de solutions numériques. J'aime transformer des idées en applications concrètes, résoudre des problèmes techniques et construire des produits qui répondent à de véritables besoins.
 
 Mon approche associe réflexion, créativité et rigueur technique. Au-delà du code, je m'intéresse à l'architecture logicielle, à l'expérience utilisateur et à la qualité des applications que je développe.
 
@@ -13,7 +13,7 @@ Mon approche associe réflexion, créativité et rigueur technique. Au-delà du 
 
 ## À propos de moi
 
-- Développement d'applications web et mobiles.
+- Développement d'applications web.
 - Conception d'interfaces modernes et intuitives.
 - Développement backend et gestion des bases de données.
 - Conception et intégration d'API REST.
@@ -68,7 +68,6 @@ Retrouve mes réalisations dans mes dépôts :
 - Développement Full Stack.
 - API REST et services backend.
 - Bases de données et optimisation des performances.
-- Automatisation et amélioration des processus.
 - Collaboration et développement logiciel en équipe.
 
 ## Collaboration professionnelle
